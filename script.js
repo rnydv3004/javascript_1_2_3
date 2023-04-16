@@ -1,5 +1,5 @@
 const box = document.getElementById("box");
 
-box.addEventListener("dblclick",function (){
-    alert("You double click the box!");
+box.addEventListener("mouseover",function (){
+    alert("Don't come here!");
 });
